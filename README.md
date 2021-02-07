@@ -21,6 +21,10 @@ Things you may want to cover:
 
 * Deployment instructions
 
-https://www.freecodecamp.org/news/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f/
+* https://www.freecodecamp.org/news/     lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f/
+
+* Instant messaging (popup windows and a separate messenger), with the ability to create private and group conversations.
+
+* Using bootstrap
 
 * ...
